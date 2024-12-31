@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<img align="right" img height="25" src="https://komarev.com/ghpvc/?username=a-nuj1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=tabish-27&style=for-the-badge&color=blue" alt="Profile Views" />
 
 <p>
   I'm Tabish Javed, 4th year student at Dr.Ram Manohar Lohia Avadh University. 
@@ -26,6 +26,7 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
       height="25"
       alt="Tabish leetcode"
        src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+      
     >
   </a>
   <a href="https://www.geeksforgeeks.org/user/tabish_javed/" target="_blank">
@@ -90,8 +91,9 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 <div>
   <img align = "left" width="47%" src="https://streak-stats.demolab.com?user=tabish-27&theme=onedark" />
 </div>
-<h3>📈My LeetCode States:- </h3>
+<h3>📈 My LeetCode Stats: </h3>
 <div>
-   <img align =  "left" src="https://leetcode.com/u/Tabish_javed/" />
+   <img align="left" src="https://leetcard.jacoblin.cool/Tabish_javed?theme=dark" alt="LeetCode Stats" />
 </div>
+
 
