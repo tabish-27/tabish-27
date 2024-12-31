@@ -62,10 +62,10 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 <h3>📈 My GitHub Stats:</h3>
 <div>
-  <img align="left" width="47%" src="https://streak-stats.demolab.com?user=tabish-27&theme=onedark" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=tabish-27&theme=onedark" />
 </div>
 
 <h3>📈 My LeetCode Stats:</h3>
 <div>
-  <img align="left" src="https://leetcard.jacoblin.cool/Tabish_javed?theme=dark" alt="LeetCode Stats" />
+  <img width="100%" src="https://leetcard.jacoblin.cool/Tabish_javed?theme=dark" alt="LeetCode Stats" />
 </div>
