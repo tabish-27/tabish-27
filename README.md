@@ -11,7 +11,6 @@
 </p>
 
 <p>💬 Ask me about Frontend, C++ and Web-Dev</p>
-<p>⚡ fact: turning caffeine into code</p>
 <p>📫 How to reach me <a href="mailto:tabishjaved2030@gmail.com">tabishjaved2030@gmail.com</a></p>
 
 
