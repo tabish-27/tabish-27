@@ -16,7 +16,7 @@
 
 <h4>Skills:</h4>
 <ul>
-  <li>WebDev Skills: HTML5, CSS3, Tailwind CSS, JavaSript, React.js, Redux, Material UI, Bootstrap, TypeScript, Next.js, Git</li>
+  <li>WebDev Skills: HTML5, CSS3, Tailwind CSS, JavaSript, React.js, Redux, Material UI, Bootstrap, TypeScript, Git</li>
   <li>C/C++, OOPS, Data Structures & Algorithms, DBMS, Operating System, Computer Network</li>
   <li>Interests: Open Source, Solving Problems</li>
 </ul>
