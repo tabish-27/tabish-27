@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=tabish-27&style=for-the-badge&color=blue" alt="Profile Views" />
 
 <p>
-  I'm Tabish Javed, a 4th-year student at Dr. Ram Manohar Lohia Avadh University. 
+  I'm Tabish Javed, I have recently completed my Bachelor of Technology in Computer Science & Engineering at Dr. Ram Manohar Lohia Avadh University. 
   
   I am interested in Frontend Development and enjoy solving problems with different approaches.
   
