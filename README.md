@@ -2,7 +2,7 @@
 
 <p>I'm <b>Tabish Javed</b>, a recent <b>B.Tech graduate in Computer Science & Engineering</b> from <b>Dr. Ram Manohar Lohia Avadh University</b>.</p>
 
-<p>I’m passionate about <b>Frontend Development</b> and love building responsive, user-focused web applications.  
+<p>I’m passionate about <b>FullStack Development</b> and love building responsive, user-focused web applications.  
 I also enjoy solving problems in <b>C++</b> and exploring multiple approaches to logic and optimization.</p>
 
 <p>I actively practice <b>Data Structures & Algorithms</b> on platforms like LeetCode and GeeksforGeeks.  
