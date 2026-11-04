@@ -1,72 +1,63 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> <img src="https://komarev.com/ghpvc/?username=tabish-27&style=for-the-badge&color=blue" alt="Profile Views" />
+<div align="center">
 
-<p>I'm <b>Tabish Javed</b>, a recent <b>B.Tech graduate in Computer Science & Engineering</b> from <b>Dr. Ram Manohar Lohia Avadh University</b>.</p>
+# Tabish Javed
 
-<p>I’m passionate about <b>FullStack Web Development</b> and love building responsive, user-focused web applications.  
-I also enjoy solving problems in <b>C++</b> and exploring multiple approaches to logic and optimization.</p>
+**Full-Stack Web Developer · Production Websites & Web Applications**
 
-<p>I actively practice <b>Data Structures & Algorithms</b> on platforms like LeetCode and GeeksforGeeks.  
-There is much to learn, many problems to brainstorm and code, many bugs to fix, and many pull requests to make.  
-Happy to connect, work, and learn with all the amazing people in the world.</p>
+I build practical, user-focused web experiences—from company websites and campaign landing pages to booking, learning, and verification platforms. After graduating in Computer Science & Engineering, I began working professionally and have independently delivered projects across multiple live domains.
 
-<p>💬 Ask me about <b>Frontend, C++, and Web Development</b></p>
-<p>📫 How to reach me: <a href="mailto:tabishjaved2030@gmail.com">tabishjaved2030@gmail.com</a></p>
+[Portfolio](https://new-portfolio-lime-iota.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tabish-javed/) · [Email](mailto:tabishjaved2030@gmail.com) · [LeetCode](https://leetcode.com/u/Tabish_javed/)
 
-<h4>Skills:</h4>
-<ul>
-  <li><b>Programming:</b> C, C++, OOPS, Data Structures & Algorithms, DBMS, Operating System, Computer Networks</li>
-  <li><b>WebDev Skills:</b> HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, PHP, Redux, Tailwind CSS, Material UI, Bootstrap, TypeScript, Git, GitHub</li>
-  <li><b>Interests:</b> Open Source, Problem Solving, UI/UX Design</li>
-</ul>
-
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
-<div>
-  <a href="https://leetcode.com/u/Tabish_javed/" target="_blank">
-    <img height="25" alt="Tabish LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/tabish_javed/" target="_blank">
-    <img height="25" src="https://img.shields.io/badge/GeeksforGeeks-008000?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="Tabish GeeksForGeeks" />
-  </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tabish-javed/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tabish Javed" height="30" width="40" />
-  </a>
-  <a href="https://x.com/TabishJaved27" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tabish Javed" height="30" width="40" />
-  </a>
-  <a href="https://new-portfolio-lime-iota.vercel.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="30" width="120" />
-  </a>
-</p>
+---
 
-<h3>Languages and Tools:</h3>
-<div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-239120?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/material--ui-007FFF.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+## Selected production work
 
-<h3>📈 My GitHub Stats:</h3>
-<div>
-  <img width="47%" src="https://streak-stats.demolab.com?user=tabish-27&theme=onedark" />
-</div>
+A selection of live projects I have worked on professionally. I handled the project work independently, from implementation through delivery.
 
-<h3>📈 My LeetCode Stats:</h3>
-<div>
-  <img width="47%" src="https://leetcard.jacoblin.cool/Tabish_javed?theme=dark" alt="LeetCode Stats" />
+| Project | What it does |
+| --- | --- |
+| [UK International](https://uk-international.com) | Main company website for UK International. |
+| [UK Beauty School](https://ukbeautyschool.in) | Student portfolio platform for beauty-school learners. |
+| [MyHireShield](https://myhireshield.com) | Employee verification platform. |
+| [UK International Course Shop](https://uk-international.in) | Course-focused website and online course shop. |
+| [UK Beauty School campaigns](https://ukbeautyschool.com) | Campaign landing pages and supporting website pages. |
+| [UK International Beauty School campaigns](https://ukinternationalbeautyschool.com) | Campaign landing pages and supporting website pages. |
+| [UK Beauty Studio](https://ukbeautystudio.com) | Studio website with booking. |
+
+## More live projects
+
+- [B.Voc Beauty & Wellness](https://bvocbeautyandwellness.com) — website for the B.Voc programme.
+- [Sapno Ka Saudagar](https://sapnoksaudagar.com) — event landing page.
+- [MyHomz](https://myhomz.com) — real-estate landing page.
+- [UK Beauty Academy](https://ukbeautyacademy.in) — trainers' resource portal.
+- [London Beauty School](https://londonbeautyschool.co.in) — admissions and collections website.
+- [Help and Care](https://helpandcare.org.in) — website for an NGO.
+- [Beauty Professional Day](https://beautyprofessionalday.com) — official event website.
+- [UK International London Beauty School](https://ukinternationallondonbeautyschool.com) — Google reviews and redirects.
+
+## What I work with
+
+**Frontend:** HTML, CSS, JavaScript, React, TypeScript, Redux, Tailwind CSS, Bootstrap, Material UI  
+**Backend & data:** Node.js, Express.js, MongoDB, PHP  
+**Tools:** Git, GitHub, VS Code, Vercel  
+**Foundations:** C/C++, object-oriented programming, data structures and algorithms, DBMS, operating systems, computer networks
+
+## About me
+
+I’m a Computer Science & Engineering graduate from Dr. Ram Manohar Lohia Avadh University, now focused on building and improving real-world web products. I enjoy taking a project from its requirements to a polished, responsive experience, and I also practice problem-solving with C++.
+
+- **Current focus:** full-stack web development and production-ready user experiences
+- **Open to:** collaboration, interesting web projects, and professional connections
+- **Contact:** [tabishjaved2030@gmail.com](mailto:tabishjaved2030@gmail.com)
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tabish-javed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=vercel)](https://new-portfolio-lime-iota.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tabish_javed/)
+
 </div>
